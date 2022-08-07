@@ -6,10 +6,6 @@
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511954376216)
 
-### Meu Github
-
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carlospunkk)
-
 ### Redes sociais
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/carlosromulor/)
@@ -38,3 +34,4 @@
 </div></br>
 
 ### Apaixonado por tecnologia e criar novas expectativas de futuro no mundo.
+
